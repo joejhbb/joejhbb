@@ -1,5 +1,8 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Johannah S. Agapito</h1>
+
+![snake gif](https://github.com/joejhbb/joejhbb/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
