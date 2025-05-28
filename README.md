@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, C...**
+- 💬 Ask me about **HTML, CSS, JS,**
 
 - 📫 How to reach me **annaagapito003@gmail.com**
 
